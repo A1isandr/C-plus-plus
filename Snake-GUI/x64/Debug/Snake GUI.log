@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Programs\C++\Snake GUI\main.cpp(20,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programs\C++\Snake GUI\main.cpp(20,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Snake GUI.vcxproj -> D:\Programs\C++\Snake GUI\x64\Debug\Snake GUI.exe

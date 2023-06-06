@@ -1,0 +1,4 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Snake.cpp
+D:\Programs\C++\ConsoleApplication1\ConsoleApplication1\Snake.cpp(58,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Programs\C++\ConsoleApplication1\x64\Debug\Snake.exe

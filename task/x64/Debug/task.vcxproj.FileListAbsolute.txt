@@ -1,0 +1,2 @@
+D:\Programs\C++\task\x64\Debug\task.exe
+D:\Projects\C++\task\x64\Debug\task.exe
